@@ -4,7 +4,7 @@ A mini project to convert scanned PDFs files to csv to be used in spreedsheets.
 ## Modules 
     1.pyPDF2 - pip install PyPDF2
     2.tabula py - pip install tabula-py
-    3.ocrmypdf - [Read](https://ocrmypdf.readthedocs.io/en/latest/installation.html).
+    3.ocrmypdf - NB:visit ocrmypdf website for installation guidelines
 
 ## How the code works
 - For the first pdf navigate to first pdf/pdfs folder and paste the PDFs you intend to parse on the pdfs folder

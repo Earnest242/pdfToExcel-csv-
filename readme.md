@@ -1,10 +1,10 @@
 # Scanned PDF to Excel (csv)
-A mini project to convert scanned PDFs files to csv to be exporetd to excel.
-NOTE: The PDFs being converted in this code are of 2 different distinct structure called (first pdf and vip pdf).
+A mini project to convert scanned PDFs files to csv to be used in spreedsheets.
+<br/> NOTE: The PDFs being converted in this code are of 2 distinct structure called (first pdf and vip pdf).
 ## Modules 
     1.pyPDF2 - pip install PyPDF2
     2.tabula py - pip install tabula-py
-    3.ocrmypdf -
+    3.ocrmypdf - [Read](https://ocrmypdf.readthedocs.io/en/latest/installation.html).
 
 ## How the code works
 - For the first pdf navigate to first pdf/pdfs folder and paste the PDFs you intend to parse on the pdfs folder
